@@ -1,0 +1,5 @@
+D:\[Labs III year]\[Sem II]\[APPOO]\Lifev1\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe
+D:\[Labs III year]\[Sem II]\[APPOO]\Lifev1\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.pdb
+D:\[Labs III year]\[Sem II]\[APPOO]\Lifev1\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.exe
+D:\[Labs III year]\[Sem II]\[APPOO]\Lifev1\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.pdb
+D:\[Labs III year]\[Sem II]\[APPOO]\Lifev1\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csprojResolveAssemblyReference.cache
