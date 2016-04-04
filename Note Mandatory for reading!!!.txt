@@ -1,0 +1,8 @@
+In order to compile and run the app on Mac OS
+
+1.Visit http://www.monodevelop.com/download/
+2. Access the link http://www.mono-project.com/download/
+3. Access the link http://download.mono-project.com/archive/4.2.1/macos-10-universal/MonoFramework-MDK-4.2.1.102.macos10.xamarin.universal.pkg
+4. Access the link http://download.xamarin.com/studio/Mac/XamarinStudio-5.10.1.6-0.dmg(to download Xamarin Studio on Mac OS)
+5. Open the Project(from folder Xamarin Studio Game of Life Mac)  in Xamarin Studio.
+6. Run it.

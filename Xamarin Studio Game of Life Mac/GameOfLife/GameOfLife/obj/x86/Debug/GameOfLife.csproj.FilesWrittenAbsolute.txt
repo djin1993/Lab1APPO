@@ -1,0 +1,5 @@
+/Users/home/Projects/GameOfLife/GameOfLife/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/home/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe.mdb
+/Users/home/Projects/GameOfLife/GameOfLife/bin/Debug/GameOfLife.exe
+/Users/home/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe
+/Users/home/Projects/GameOfLife/GameOfLife/obj/x86/Debug/GameOfLife.exe.mdb
